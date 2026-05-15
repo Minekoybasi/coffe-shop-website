@@ -30,13 +30,5 @@ Modern kahve konsepti
 Grid ve Flexbox kullanımı
 Responsive media queries
 Hover animasyonları
-# 📱 Responsive Tasarım
-
-
-
-için optimize edilmiştir.
-
-
-📷 Proje Görselleri
-
+# 📷 Proje Görselleri
 Projede kahve ürünleri, blog görselleri ve kullanıcı yorum kartları bulunmaktadır.
