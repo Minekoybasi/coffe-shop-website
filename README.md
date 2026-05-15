@@ -1,14 +1,16 @@
-☕ Coffee Shop Website
+# ☕ Coffee Shop Website
 
 Modern ve responsive bir kahve dükkanı websitesi projesi.
 Bu proje HTML ve CSS kullanılarak geliştirilmiştir. Responsive tasarım sayesinde farklı ekran boyutlarına uyum sağlar.
 
-🚀 Kullanılan Teknolojiler
+# 🚀 Kullanılan Teknolojiler
+
 HTML5
 CSS3
 Font Awesome
 Responsive Design
-📌 Proje Özellikleri
+
+# 📌 Proje Özellikleri
 Responsive navbar
 Home section
 About section
@@ -19,25 +21,24 @@ Contact form
 Blog section
 Hover efektleri
 Modern kullanıcı arayüzü
-📂 Proje Yapısı
+
+# 📂 Proje Yapısı
 coffee-shop-website/
 │
 ├── index.html
 ├── style.css
 └── images/
-🎨 Tasarım Özellikleri
+
+# 🎨 Tasarım Özellikleri
 Dark theme tasarım
 Modern kahve konsepti
 Grid ve Flexbox kullanımı
 Responsive media queries
 Hover animasyonları
-📱 Responsive Tasarım
 
-Website:
+# 📱 Responsive Tasarım
 
-Tablet
-Laptop
-Mobil cihazlar
+
 
 için optimize edilmiştir.
 
